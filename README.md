@@ -1,6 +1,6 @@
 ---
 
-# Analyzing Sentiment in Reviews using NLP Techniques
+# Analyzing Sentiment in Trip Advisor Reviews using Hugging Face’s Transformers Model
 
 In today's data-driven world, businesses and organizations rely heavily on customer reviews and feedback to improve their products and services. Analyzing sentiment in these reviews can provide valuable insights into customer perceptions and opinions. In this blog post, we'll explore how to perform sentiment analysis on a collection of hotel reviews using Natural Language Processing (NLP) techniques. We'll walk through the entire process, from data loading to visualization, using Python and popular NLP libraries.
 
